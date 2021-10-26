@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @actuallymitch
+- 👋 Hi, I’m @mitchsdevkit
 - 👀 I’m interested in ... CREATING ORIGINAL CONTENT THAT PLEASES THE WALLETS
 - 🌱 I’m currently learning ... HOW TO CREATE ORIGINAL CONTENT THAT PLEASES THE WALLETS
 - 💞️ I’m looking to collaborate on ...CREATING ORIGINAL CONTENT THAT PLEASES THE WALLETS
