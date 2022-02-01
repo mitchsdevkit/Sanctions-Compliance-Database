@@ -1,0 +1,9 @@
+
+
+***REPO NOTES***
+
+
+
+This repository will be updated with a separate guide that completes this database creation in PL/SQL.
+
+There will also be another Warnings file added in future if I cannot resolve the INT and DATE issues across dob_# and other fields, but my MySQL logging is both not configured properly and the Warnings are not properly populating in MySQL.
